@@ -7,12 +7,12 @@ Public Chatrooms will be deleted, when the last user leave. <br/>
 The P2P conversations will be stored in the database. <br/>
 
 
-#TECH STACK
+#TECH STACK <br/>
 Front-End – <br/>
 HTML <br/>
 CSS/Bootstrap <br/>
 JavaScript <br/>
-      
+      <br/>
 Back-End –  <br/>
 Django (Python Web Framework) <br/>
 Django Channels, for handling Web Sockets and Chat protocols (Real Time) <br/>
